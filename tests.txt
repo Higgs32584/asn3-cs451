@@ -1,0 +1,4 @@
+ Test input expected output rationale
+ 1 4 ’() () Test empty list
+ 2 4 ’(4 8 12) () Test when all multiples
+ 3 4 ’(5 9) (5 9) Test when none are multiples
